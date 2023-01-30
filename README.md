@@ -1,0 +1,2 @@
+# EMOJI_CURSOR
+emoji
